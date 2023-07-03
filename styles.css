@@ -31,3 +31,7 @@
 .carousel-inner .carousel-item-start { 
     transform: translateX(0);
 }
+
+.card {
+    border-radius: 25px !important;
+}
